@@ -1,2 +1,2 @@
 # vidly
-rental movie application
+rental movie application in nodejs and mongodb
